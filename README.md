@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dimas Januar pradana</h1>
-<h3 align="center">bionya nggak ketebak bang</h3>
+<h1 align="center">ABOUT ME</h1>
+<h3 align="center">Memiliki Status Hubungan Rumit 😑😑</h3>
 
-- 🌱 I’m currently learning **poliwangi**
+- 🌱 I’m currently learning **Web Progaming & App Mobile Progaming**
+
+- 📫 How to reach me **pradanadimas534@gmail.com**
+
+- ⚡ Fun fact **Kamu "HITAM" 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
