@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pradanadimas534@gmail.com**
 
-- ⚡ Fun fact **Kamu "HITAM" 👀**
+- ⚡ Fun fact **Kamu "HITAM"!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
