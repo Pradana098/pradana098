@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Progaming & App Mobile Progaming**
 
-- 📫 How to reach me **pradanadimas534@gmail.com**
+- 📫 How to reach me **chat via fb**
 
 - ⚡ Fun fact **Kamu "HITAM"!!!**
 
